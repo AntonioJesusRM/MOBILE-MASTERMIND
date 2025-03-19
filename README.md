@@ -17,7 +17,7 @@ Este proyecto nace de la necesidad de aprender de forma interactiva y mantenerse
 ---
 
 ## 🎨 Características clave:
-(aquí iría la imagen del diseño en Figma)
+![Alt text](./figma.png "Diseño del proyecto")
 - **Interfaz minimalista:** Diseño limpio para una experiencia de usuario fluida y sin distracciones.
 - **Preguntas con temporizador:** Añade adrenalina a cada pregunta y mejora la retención del aprendizaje.
 - **Estadísticas detalladas:** Consulta tu progreso y compite para alcanzar el top 1 global.
@@ -26,16 +26,9 @@ Este proyecto nace de la necesidad de aprender de forma interactiva y mantenerse
 ---
 
 ## 🛠️ Tecnologías utilizadas:
-- **Lenguaje:** Kotlin para la versión Android (próximamente Swift para iOS).
+- **Lenguaje:** Kotlin.
 - **Herramientas:** Android Studio, Figma para el diseño y Gitflow para la gestión del código.
 - **Metodologías:** Gitflow para control de versiones y enfoque ágil para el desarrollo.
-
----
-
-## 🚀 Próximos pasos:
-- Publicación del repositorio en GitHub y estructuración con Gitflow.
-- Integración de preguntas y categorías adicionales para ampliar la experiencia de aprendizaje.
-- Implementación de la versión para iOS con Swift.
 
 ---
 
