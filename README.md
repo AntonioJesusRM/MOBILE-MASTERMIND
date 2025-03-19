@@ -17,7 +17,7 @@ Este proyecto nace de la necesidad de aprender de forma interactiva y mantenerse
 ---
 
 ## 🎨 Características clave:
-![Alt text](./figma.png "Diseño del proyecto")
+![Alt text](./figma.PNG "Diseño del proyecto")
 - **Interfaz minimalista:** Diseño limpio para una experiencia de usuario fluida y sin distracciones.
 - **Preguntas con temporizador:** Añade adrenalina a cada pregunta y mejora la retención del aprendizaje.
 - **Estadísticas detalladas:** Consulta tu progreso y compite para alcanzar el top 1 global.
