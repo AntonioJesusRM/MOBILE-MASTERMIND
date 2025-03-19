@@ -4,11 +4,6 @@
 
 ---
 
-## 🎯 ¿Por qué Mobile Mastermind?
-Este proyecto nace de la necesidad de aprender de forma interactiva y mantenerse actualizado en un sector donde la tecnología avanza rápidamente. Inspirados en los quizz de evaluación semanales de nuestro bootcamp y con la idea inicial de crear un trivial, adaptamos este formato al desarrollo móvil para combinar **aprendizaje continuo** y **competencia saludable**.
-
----
-
 ## 🔎 Objetivos del proyecto:
 - **Aprendizaje continuo:** Preguntas prácticas y actuales sobre tecnologías clave en desarrollo móvil.
 - **Competencia saludable:** Rankings globales y categorías para motivarte y medir tu progreso.
@@ -17,7 +12,9 @@ Este proyecto nace de la necesidad de aprender de forma interactiva y mantenerse
 ---
 
 ## 🎨 Características clave:
-![Alt text](./figma.PNG "Diseño del proyecto")
+<div align="center">
+  ![Alt text](./figma.PNG "Diseño del proyecto")
+</div>
 - **Interfaz minimalista:** Diseño limpio para una experiencia de usuario fluida y sin distracciones.
 - **Preguntas con temporizador:** Añade adrenalina a cada pregunta y mejora la retención del aprendizaje.
 - **Estadísticas detalladas:** Consulta tu progreso y compite para alcanzar el top 1 global.
