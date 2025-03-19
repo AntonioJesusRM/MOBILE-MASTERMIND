@@ -12,11 +12,7 @@
 ---
 
 ## 🎨 Características clave:
-<div align="center">
-<p>
-  ![Alt text](./figma.PNG "Diseño del proyecto")
-</p>
-</div>
+![Alt text](./figma.PNG "Diseño del proyecto")
 - **Interfaz minimalista:** Diseño limpio para una experiencia de usuario fluida y sin distracciones.
 - **Preguntas con temporizador:** Añade adrenalina a cada pregunta y mejora la retención del aprendizaje.
 - **Estadísticas detalladas:** Consulta tu progreso y compite para alcanzar el top 1 global.
