@@ -1,4 +1,4 @@
-# 📱 Mobile Mastermind - Trivial para Desarrolladores Móviles 🚀
+# 📱 Mobile Mastermind 📱
 
 **Mobile Mastermind** es una app de trivial diseñada **por y para desarrolladores móviles**, con el objetivo de convertir el aprendizaje técnico en una experiencia **competitiva, divertida y dinámica**. Si eres desarrollador Android o iOS y quieres poner a prueba tus conocimientos de Kotlin, Swift, Android Studio y Xcode, ¡esta app es para ti!
 
