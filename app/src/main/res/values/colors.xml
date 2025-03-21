@@ -10,5 +10,6 @@
 
     <!-- App colors -->
     <color name="green125">#FF2D5D56</color>
+    <color name="gray175">#AFAFAFAF</color>
 
 </resources>
