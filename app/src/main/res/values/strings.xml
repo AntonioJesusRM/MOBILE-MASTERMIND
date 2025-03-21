@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MOBILE-MASTERMIND</string>
+    <!-- Strings for login -->
+    <string name="login">Iniciar sesión</string>
 </resources>
